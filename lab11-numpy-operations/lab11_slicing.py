@@ -1,0 +1,1 @@
+# NumPy slicing demo
