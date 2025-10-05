@@ -1,0 +1,9 @@
+=== End-to-End ML Workflow ===
+
+Model: Logistic Regression
+Accuracy: 1.0000
+
+Confusion Matrix:
+10 0 0
+0 9 0
+0 0 11
